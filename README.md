@@ -10,8 +10,8 @@ Select "Ubuntu" in Linux Deploy Distribution.
 Apply VNC viewer to set up localhost.
 
 # Command
-git clone https://github.com/Shiangjun/YOLO-Face-detection.git
-sudo make
+git clone https://github.com/Shiangjun/YOLO-Face-detection.git<br>
+sudo make<br>
 ./darknet yolo demo cfg/yolo-face.cfg yolo-face_final.weights
 
 # Enjoy
