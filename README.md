@@ -1,5 +1,5 @@
 # YOLO-Face-detection on SAMSUNG Note 8
-Hoppy project in my spare time (Or try to cheer MJ up).
+For Fun.
 # Sources
 This project is from [dannyblueliu](https://github.com/dannyblueliu)
 # Enviroment
